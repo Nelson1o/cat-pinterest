@@ -1,6 +1,6 @@
 # Cat Pinterest
 
-- Live-демо: https://nelson1o.github.io/cat-pinterest/favorites
+- Live-демо: https://nelson1o.github.io/cat-pinterest/gallery
 
 ## Стек технологий
 
