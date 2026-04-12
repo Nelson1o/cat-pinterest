@@ -1,0 +1,26 @@
+.link {
+  height: 64px;
+  padding: 23px 25px;
+  color: var(--color-white);
+  align-items: center;
+
+  &:hover {
+    background-color: var(--accent-color-2);
+    color: var(--color-white);
+  }
+}
+
+.active {
+  background-color: var(--accent-color-2);
+}
+
+.notActive {
+  color: var(--accent-color-3);
+}
+
+@media (max-width: 768px) {
+  .link {
+    font-weight: 400;
+    line-height: 1.25;
+  }
+}
